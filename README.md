@@ -3,7 +3,7 @@
 
 
 
-Natural Language Processing (NLP) Conversational Assistant
+RAG Conversational Assistant
 
 As part of my ongoing exploration and application of Natural Language Processing techniques, I developed a powerful and intuitive conversational assistant using Python and Streamlit. This application enables users to engage in dynamic and context-aware conversations with a system that integrates information from multiple PDF documents.
 

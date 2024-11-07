@@ -1,4 +1,4 @@
-# Generative AI Project(Multiple Pdf Reader)
+# RAG(Multiple Pdf Reader)
 <br>
 
 

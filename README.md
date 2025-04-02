@@ -1,4 +1,4 @@
-# PDF Chat RAG Application
+# PDF ChatBot RAG Application
 
 A powerful Streamlit-based application that allows users to chat with multiple PDF documents using AI. The application uses advanced natural language processing and machine learning techniques to understand and respond to questions about the content of uploaded PDF files.
 
